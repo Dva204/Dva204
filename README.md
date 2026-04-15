@@ -122,7 +122,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/Dva204/Dva204/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Dva204/Dva204/refs/heads/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
