@@ -17,7 +17,7 @@
 ### 💻 About Me
 
 * 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, **React**.
-* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
+* 📚 **Learning Next:** Mastering **AI/ML** and **Data Analysts**.
 * 🤝 **Collaborations:** Open to Internship and Collaboration Opportunities.
 
 <br>
@@ -27,7 +27,7 @@
   <a href="https://github.com/Dva204">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:cuong15122004@gmail.com">
+  <a href="mailto:dvaforwork258@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="#">
