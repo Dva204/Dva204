@@ -16,9 +16,9 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
+* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, **React**.
 * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
-* 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+* 🤝 **Collaborations:** Open to Internship and Collaboration Opportunities.
 
 <br>
 
